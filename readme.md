@@ -1,1 +1,1 @@
-* My graduation design *
+*My graduation design*
