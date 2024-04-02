@@ -1,0 +1,7 @@
+{
+  "issuer": "nurseSystemGraduateDesign2023GroupChang",
+  "algorithm": "HS256",
+  "key": "graduationDesign2023ByGroupChangNurseSystem114514",
+  "iss": "nurseSystem",
+  "algorithms": ["HS256"]
+}
